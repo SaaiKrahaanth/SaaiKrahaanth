@@ -2,7 +2,7 @@
 
 
 # Hi there 👋 It's me Saai Krahaanth
-<img align="right" height="360" src="https://leetcard.jacoblin.cool/Saai_krahaanth?theme=dark&font=Noto%20Sans%20Buginese&ext=heatmap">
+<img align="right" height="300" src="https://leetcard.jacoblin.cool/Saai_krahaanth?theme=dark&font=Noto%20Sans%20Buginese&ext=heatmap">
 
 
 - 🔭 I’m currently working on **DSA**
