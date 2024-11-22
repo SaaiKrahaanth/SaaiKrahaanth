@@ -22,14 +22,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Saai_krahaanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saaikrahaanth" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saai-krahaanth-211449300/
+<a href="https://x.com/SaaiKrahaanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saaikrahaanth" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/SaaiKrahaanth
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saaikrahaanth" height="30" width="40" /></a>
 <a href="https://www.instagram.com/krahaanthsk_prime/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krahaanthsk_prime" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@saaikrahaanth
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saai krahaanth" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Saai_krahaanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saaikrahaanth" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Saai_krahaanth/
+<a href="https://www.hackerrank.com/saaikrahaanth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saaikrahaanth" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/SaaiKrahaanth/
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saaikrahaanth" height="30" width="40" /></a>
  
 </p>
