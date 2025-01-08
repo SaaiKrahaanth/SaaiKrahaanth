@@ -53,8 +53,8 @@
   <table>
   <tr>
     <td>
-      <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=saaikrahaanth&theme=dark&show_icons=true&hide_border=true&count_private=true">
-    </td>
+<!--       <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=saaikrahaanth&theme=dark&show_icons=true&hide_border=true&count_private=true">
+    </td> -->
     <td style="width: 20px;"></td> <!-- Adjust the width as needed -->
     <td>
       <img height="200" width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=saaikrahaanth&theme=dark&hide_border=true">
