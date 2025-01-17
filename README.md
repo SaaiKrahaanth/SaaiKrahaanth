@@ -57,7 +57,7 @@
     </td> 
     <td style="width: 20px;"></td> <!-- Adjust the width as needed -->
     <td>
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaaiKrahaanth&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SaaiKrahaanth&theme=dark&hide_border=true&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
