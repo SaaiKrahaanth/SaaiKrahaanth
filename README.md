@@ -47,13 +47,13 @@
 <p>
 <p>
 
-
+<!--
   <table>
   <tr>
     <td>
  <img height="200" width="450" src="https://github-readme-stats.vercel.app/api?username=saaikrahaanth&theme=dark&show_icons=true&hide_border=true&count_private=true">
     </td> 
-    <td style="width: 20px;"></td> <!-- Adjust the width as needed -->
+    <td style="width: 20px;"></td> 
     <td>
      <img src="https://github-readme-streak-stats.herokuapp.com?user=SaaiKrahaanth&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
     </td>
@@ -61,7 +61,7 @@
 </table>
 
 
-[![Saai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaaiKrahaanth&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaaiKrahaanth&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <table>
   <tr>
     <td>
