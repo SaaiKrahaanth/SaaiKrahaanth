@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **DSA**
 
-- 🤝 I’m looking for **Google**
-
 - 👨‍💻 Here's my [Portfolio](https://saaikrahaanth.netlify.app/)
 
 - 📫 How to reach me **saaikrahaanth@gmail.com**
